@@ -7,9 +7,9 @@
 <div align="center">
 
 # nonebot_jp
-
-- 使用方法
-
----
-/jp text
----
+## 使用
+* 相应command  
+  /jp text 如
+  ```
+  /jp 我是残心
+  ```
